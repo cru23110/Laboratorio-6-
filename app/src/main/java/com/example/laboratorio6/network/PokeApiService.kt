@@ -1,3 +1,4 @@
+package com.example.laboratorio6.network
 import com.example.laboratorio6.model.PokeResponse
 import retrofit2.http.GET
 import retrofit2.http.Query
